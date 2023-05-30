@@ -3,7 +3,7 @@
 
 ## Features
 
- Download batch mp3 from youtube instanly
+Batch download mp3 from youtube instanly
  
 - **Normal mode**: Input the song / [Youtube url](https://youtu.be/QXP0XxAUztA) you want and we will do the rest.
 - **Batch Import mode**: Import txt file of the list of song you want and we will download all of them. You can see the example of correct format [here](https://github.com/lmjaedentai/kaicheng-youtube/blob/v1.0/src/example.txt).
